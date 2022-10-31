@@ -10,3 +10,5 @@ For more details, see https://docs.teradata.com/r/Teradata-Query-Service-Install
 
 Hello
 
+*Copy this now*
+
